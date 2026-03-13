@@ -173,9 +173,3 @@ http://localhost:8000/BTC_Prediction_WebApp.html
 This project is for **educational purposes only** as part of the First Quadrant Labs BIA® Research Program. The models and predictions presented do not constitute financial advice. Cryptocurrency investments carry significant risk.
 
 ---
-
-## 📬 Submission
-
-- **Submit to:** projects@firstquadrantlabs.com
-- **Upload to:** BIA® LMS account
-- **Deadline:** 13th March 2026
